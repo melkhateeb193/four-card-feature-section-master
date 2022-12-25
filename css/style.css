@@ -106,7 +106,7 @@ position: absolute;
 top: 0;
 }
 
-.left h3 , .top h3 , .bottom h3 , .right h3{
+.left h3 , .top h3 , .bottom h3 , .right h3 , h2{
     margin-left: 20px;
     margin-top: 30px;
     color: var(--Very-Dark-Blue);
