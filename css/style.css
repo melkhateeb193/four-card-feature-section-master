@@ -134,7 +134,7 @@ top: 0;
     text-align: center; }
 .attribution a { color:var(--Red); }
 
-@media (max-width:750px) {
+@media (max-width:850px) {
     body {
         height: 100%;
     }
